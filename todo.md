@@ -1,6 +1,6 @@
 A revoir
 
-* [ ] tester performance avec .py, pas avec .ipynb
+* [X] tester performance avec .py, pas avec .ipynb
 * [ ] les statistiques
   * [ ] lois de probabilités
   * [ ] loi normale
